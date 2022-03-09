@@ -5,6 +5,8 @@ Sending sms through teltonika routers inside Niagara Framework.
 
 Download the appropriate realease files:
 - [malvarTeltonikaSms-rt.jar](https://github.com/MalvarControls/malvarTeltonikaSms/releases) (Obligatory);
+- [malvarTeltonikaSms-wb.jar](https://github.com/MalvarControls/malvarTeltonikaSms/releases) (Obligatory);
+- [malvarTeltonikaSms-ux.jar](https://github.com/MalvarControls/malvarTeltonikaSms/releases) (Obligatory);
 
 Paste them into the modules folder inside your Niagara installation directory ```C:\Niagara\Niagara-4.x.x.x\modules```.
 
